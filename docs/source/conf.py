@@ -96,6 +96,15 @@ html_theme_options = {
     # 'navigation_depth': 4,  # Depth of the headers shown in the navigation bar
 }
 
+# VCS options: https://docs.readthedocs.io/en/latest/vcs.html#github
+html_context = {
+    "display_github": True, # Integrate GitHub
+    "github_user": "Jacob-gr", # Username
+    "github_repo": "NotesAndReferences", # Repo name
+    "github_version": "master", # Version
+    "conf_py_path": "/docs/source/", # Path in the checkout to the docs root
+}
+
 #html_logo = 'img/docs_logo.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
