@@ -1,0 +1,44 @@
+{
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+
+    "restructuredtext.confPath": "c:\\Users\\Jacob\\OneDrive\\Certification-Training-Documentation\\docs\\source",
+    "cSpell.words": [
+        "ADSL",
+        "ASIC",
+        "Autoconfiguration",
+        "Backlighting",
+        "CCFL",
+        "Classful",
+        "Connectionless",
+        "Datagram",
+        "Digitizers",
+        "Hotspot",
+        "Hubbing",
+        "ISDN",
+        "Kbps",
+        "LANs",
+        "Loopback",
+        "Mbps",
+        "Multimeter",
+        "OLED",
+        "PSTN",
+        "Phablets",
+        "Punchdown",
+        "SLAAC",
+        "Stateful",
+        "Thinnet",
+        "WLAN",
+        "backlight",
+        "backlights",
+        "beadboard",
+        "modulatiry",
+        "performant",
+        "pinouts",
+        "subnets",
+        "wireshark"
+    ]
+}
